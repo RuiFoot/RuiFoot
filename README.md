@@ -28,7 +28,9 @@
   - 📧 이메일: jin14500@google.com
   </details>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiFoot&layout=compact)](https://github.com/RuiFoot/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiFoot&layout=compact&hide=CSS,SCSS&theme=blueberry)](https://github.com/RuiFoot/github-readme-stats)
+
+
 
   
 
