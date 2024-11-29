@@ -5,7 +5,7 @@
   
   <details>
   <summary>About Me</summary>
-    ### 🛠️ 기술 스택  
+  ### 🛠️ 기술 스택  
   
   #### **언어**  
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -26,6 +26,7 @@
   
   ### 📫 연락처  
   - 📧 이메일: jin14500@google.com
+
   </details>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiFoot&layout=compact&hide=CSS,SCSS&theme=blueberry)](https://github.com/RuiFoot/github-readme-stats)
