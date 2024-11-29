@@ -1,6 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<h1 align="center">👋 Hi, I'm <strong>Jinwook</strong>!</h1>
+![header](https://capsule-render.vercel.app/api?text=Hi%I'm%Jinuk!)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 ### 🛠️ 기술 스택  
