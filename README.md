@@ -28,9 +28,9 @@
   - 📧 이메일: jin14500@google.com
   </details>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuiFoot&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application&hide=CSS,SCSS" width=38% />
-  </a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiFoot&layout=compact)](https://github.com/RuiFoot/github-readme-stats)
+
+  
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,50:6495ED,100:87CEFA&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
