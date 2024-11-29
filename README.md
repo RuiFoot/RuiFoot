@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 헤더 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:6495ED,100:87CEFA&height=100&section=header&text=RuiFoot%27s%20Profile&fontSize=32&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:6495ED,100:87CEFA&height=100&section=header&text=RuiBotte%27s%20Profile&fontSize=32&fontColor=ffffff" width="100%" />
 
   <!-- 소개 -->
   <!--
